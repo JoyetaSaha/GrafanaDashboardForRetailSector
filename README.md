@@ -1,2 +1,2 @@
 # GrafanaDashboard
-This Grafana Dashboard was created by \joyeta!
+This dashboard was created by Joyeta! Grafana was used for visualization, and SQL was used for programming.
