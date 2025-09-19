@@ -1,2 +1,2 @@
 # GrafanaDashboard
-This dashboard was created by Joyeta! Grafana was used for visualization, and SQL was used for programming.
+Example of a Grafana dashboard! Grafana was used for visualization, and SQL was used for programming.
