@@ -6,7 +6,7 @@ The dashboard enables stakeholders to analyze performance across multiple Busine
 
 🚀 Insights:
 
-# Which retailers and business unions are driving the most engagement?
+# Which retailers and business types are driving the most engagement?
 # How does shopper behavior change over time?
 # Are campaigns generating repeat shoppers or just one-time?
 # What is the ROI of redemptions by retailer, brand, and voucher?
