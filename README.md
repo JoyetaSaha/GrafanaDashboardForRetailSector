@@ -19,15 +19,15 @@ The dashboard enables stakeholders to analyze performance across multiple Busine
 # Relational Database – structured transactional and user data
 # Time-series analysis – date-driven performance tracking
 
-📌 Dashboard Capabilities
-🔍 Dynamic Filtering
+# 📌 Dashboard Capabilities
+# 🔍 Dynamic Filtering
 
 Filter by Business Union Type (Nisa, Wholeseller, NFRN, etc.)
 
-# Drill down into individual retailers
+Drill down into individual retailers
 All metrics update dynamically based on selections
 
-# 📅 Date Range Control
+📅 Date Range Control
 Calendar selector allows analysis for:
 
 - Daily
