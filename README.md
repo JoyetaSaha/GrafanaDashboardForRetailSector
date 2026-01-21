@@ -6,21 +6,21 @@ The dashboard enables stakeholders to analyze performance across multiple Busine
 
 🚀 Insights:
 
-# Which retailers and business types are driving the most engagement?
-# How does shopper behavior change over time?
-# Are campaigns generating repeat shoppers or just one-time?
-# What is the ROI of redemptions by retailer, brand, and voucher?
-# How do demographics (age & gender) impact redemption behaviuor?
+ Which retailers and business types are driving the most engagement?
+ How does shopper behavior change over time?
+ Are campaigns generating repeat shoppers or just one-time?
+ What is the ROI of redemptions by retailer, brand, and voucher?
+ How do demographics (age & gender) impact redemption behaviuor?
 
 🛠️ Tech Stack:
 
-# SQL – data extraction, aggregation, joins, and KPI calculations
-# Grafana – interactive dashboards, panels, and filters
-# Relational Database – structured transactional and user data
-# Time-series analysis – date-driven performance tracking
+ SQL – data extraction, aggregation, joins, and KPI calculations
+ Grafana – interactive dashboards, panels, and filters
+ Relational Database – structured transactional and user data
+ Time-series analysis – date-driven performance tracking
 
-# 📌 Dashboard Capabilities
-# 🔍 Dynamic Filtering
+ 📌 Dashboard Capabilities
+ 🔍 Dynamic Filtering
 
 Filter by Business Union Type (Nisa, Wholeseller, NFRN, etc.)
 
